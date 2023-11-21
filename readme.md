@@ -6,4 +6,4 @@
 ### <a>3.Install Dependencies</a>
     npm install
 ### <a>4.Run App</a>
-´< npx expo start / expo start >´
+    npx expo start
